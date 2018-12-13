@@ -1,5 +1,11 @@
-# Project Name Source Code
+# Rest Client 
 
-The folders and files for this project are as follows:
+Instructions for running on your local machine:
+
+1. navigate to insomnia/
+2. run npm install
+3. run npm start
+4. run npm run electron in another folder (The electron app is necessary to bypass CORS)
+5. Happy Requesting :)
 
 ...
